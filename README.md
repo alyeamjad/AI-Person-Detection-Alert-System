@@ -14,7 +14,7 @@ triggers alerts if a person stays too long, plays an audio warning, and sends an
 -  **Audio Alerts** – Plays a warning sound.
 -  **Email Notifications** – Sends detection images to a configured email.
 -  **Logging** – Saves detection events to CSV.
--  **Video Saving** – Records detection footage.
+-  **Video Saving** – Records detection footage
 
 ---
 
